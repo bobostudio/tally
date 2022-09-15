@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "cdetail": "../../components/detail/detail"
+  }
+}

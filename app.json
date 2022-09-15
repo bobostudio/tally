@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/chart/chart",
+    "pages/record/record",
+    "pages/me/me"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarHideCloseButton": true,
+    "navigationBarHideMoreButton": true,
+    "navigationBarBackgroundColor": "#98A1D8",
+    "navigationBarTitleText": "tally",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "明细",
+        "iconPath": "icons/index.png",
+        "selectedIconPath": "icons/index-selected.png"
+      },
+      {
+        "pagePath": "pages/record/record",
+        "text": "记账",
+        "iconPath": "icons/record.png",
+        "selectedIconPath": "icons/record-selected.png"
+      },
+      {
+        "pagePath": "pages/chart/chart",
+        "text": "图表",
+        "iconPath": "icons/chart.png",
+        "selectedIconPath": "icons/chart-selected.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "icons/me.png",
+        "selectedIconPath": "icons/me-selected.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
