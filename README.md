@@ -1,2 +1,3 @@
-# tally
-tally mini program
+# 𝒕𝒂𝒍𝒍𝒚
+
+𝒕𝒂𝒍𝒍𝒚 𝒎𝒊𝒏𝒊 𝒑𝒓𝒐𝒈𝒓𝒂𝒎
